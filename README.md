@@ -8,8 +8,8 @@
   
 Team Project Slide deck  
   
-https://docs.google.com/presentation/d/1FDVUVclhR1rIBkqeS-TvDeRiWkKmNqD71G2Elw_s
-OHU/edit?usp=sharing</h2>
+[https://docs.google.com/presentation/d/1FDVUVclhR1rIBkqeS-TvDeRiWkKmNqD71G2Elw_s
+OHU/edit?usp=sharing</h2>](https://drive.google.com/file/d/1jHIQ82yKapW1ov_87xpNHHfE2XOCUgY3/view?usp=drive_link)
 
 <h2> Elevator Pitch 
 https://docs.google.com/document/d/1couLjvQxKeCQ26gr4mELHl9ObHVZ38C6E9UNptgpw5c/edit</h2>
