@@ -2,7 +2,7 @@
 <h2>👨‍💻 Software Engineer to be:</h2>
 
 <h2>Bio</h2>
-
+An Aerospace engineer who is an empathetic team player with a creative mind and entrepreneurial aspirations That led to 5 different work experiences
 
 <h2> Portfolio
   
@@ -17,7 +17,7 @@ https://docs.google.com/document/d/1couLjvQxKeCQ26gr4mELHl9ObHVZ38C6E9UNptgpw5c/
 <h2> 🤳 Connect with me:</h2>
 
 www.linkedin.com/in/mohamed-shalaby-500a251b7"
-
+mohammedshalaby92@gmail.com
 
 
 [linkedin]: www.linkedin.com/in/mohamed-shalaby-500a251b7
