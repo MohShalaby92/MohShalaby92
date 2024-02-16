@@ -13,6 +13,8 @@ OHU/edit?usp=sharing</h2>](https://drive.google.com/file/d/1jHIQ82yKapW1ov_87xpN
 
 <h2> Elevator Pitch 
 https://docs.google.com/document/d/1couLjvQxKeCQ26gr4mELHl9ObHVZ38C6E9UNptgpw5c/edit</h2>
+
+  https://drive.google.com/file/d/1AO1Kd54saWPuQNwEic_5YeXqYnwz3OZM/view?usp=drive_link
   
 <h2> 🤳 Connect with me:</h2>
 
