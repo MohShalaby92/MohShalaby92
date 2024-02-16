@@ -17,7 +17,6 @@ https://docs.google.com/document/d/1couLjvQxKeCQ26gr4mELHl9ObHVZ38C6E9UNptgpw5c/
 <h2> 🤳 Connect with me:</h2>
 
 www.linkedin.com/in/mohamed-shalaby-500a251b7"
-mohammedshalaby92@gmail.com
 
 
 [linkedin]: www.linkedin.com/in/mohamed-shalaby-500a251b7
